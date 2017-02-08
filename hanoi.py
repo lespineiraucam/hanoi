@@ -24,7 +24,7 @@ def show():
     for i in range(len(bars)):
         print(bars[i])
     print("moves %d" % moves)
-    print("------------")
+    print("----**------")
     time.sleep(0.1)
     print()
 
